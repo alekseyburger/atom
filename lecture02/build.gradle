@@ -4,6 +4,7 @@ repositories {
 
 apply plugin: 'java'
 apply plugin: 'checkstyle'
+apply plugin: 'eclipse'
 
 dependencies {
     // https://mvnrepository.com/artifact/junit/junit
